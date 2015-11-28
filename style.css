@@ -43,6 +43,19 @@ body{
 	font-weight: bold;
 }
 
+.header-light{
+	color: rgba(0,0,0,0.4);
+}
+.gray-block{
+	padding-left: 1%;
+  	padding-right: 1%;
+  	border-radius: 4px;
+  	padding-top: 0.5%;
+  	padding-bottom: 0.5%;
+  	color: black;
+  	background-color: rgba(0,0,0,0.1);
+}
+
 /*.about-content > h5 {
 	font-weight: bold;
 }*/
