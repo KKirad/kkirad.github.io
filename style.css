@@ -70,3 +70,10 @@ body{
 /*.about-content > h5 {
 	font-weight: bold;
 }*/
+
+.social-icons-small-screen{
+  width: 102px;
+  margin-left: -51px;
+  left: 50%;
+  position: relative
+}
