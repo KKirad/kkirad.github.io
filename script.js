@@ -13,11 +13,12 @@ $(document).ready(function(){
             		  ['Javascript', 5],
             		  ['HTML', 7],
             		  ['CSS', 6],
-            		  ['Ruby', 5],
-                  ['Rails', 5],
-                  ['Java', 7],
+            		  ['Ruby', 6],
+                  ['Rails', 6],
+                  ['Java', 5],
                   ['Git', 6],
                   ['Jira', 7],
+                  ['DBMS', 6]
             	],
               type: 'bar'
             },
