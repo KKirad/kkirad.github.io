@@ -28,12 +28,14 @@ body{
 .main-heading{
 	font-family: 'Raleway', sans-serif;
   	font-weight: 700;
+  	color: black;
   	font-size: 5em;
 }
 .sub-heading{
 	font-family: 'Raleway', sans-serif;
   	font-weight: 300;
   	font-size: 3em;
+  	color: black;
 }
 .about-me  .about-content {
 	border-left: 4px solid rgba(0, 0, 0, 0.3);
